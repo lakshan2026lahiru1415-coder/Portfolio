@@ -1,0 +1,13 @@
+Lahiru Lakshan | ED4023 teaching portfolio
+
+1. Extract this ZIP. Upload the extracted folder to your HTTPS static website host.
+   Keep index.html at the site root with the case pages and assets folder alongside it.
+2. Open the hosted homepage and check that your intended viewers can open the CV
+   and project PDFs. The host must allow embedding on your Google Site.
+3. In Google Sites, open Pages > Add (+) > Full page embed. Paste the hosted
+   homepage URL, choose Insert, and name the page Teaching portfolio.
+4. Preview on phone and desktop, then publish and check the published page
+   with the same access as an assessor.
+
+Google Sites takes the hosted page URL in the full-page embed field.
+Google Sites Help: https://support.google.com/sites/answer/90569?hl=en
